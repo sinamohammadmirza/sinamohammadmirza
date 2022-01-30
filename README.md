@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinamohammadmirza
-- 👀 I’m interested in block chain
+- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ....
